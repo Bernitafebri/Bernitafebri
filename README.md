@@ -29,8 +29,6 @@ I’m Bernita, fresh graduate computer engineer
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -47,11 +45,7 @@ I’m Bernita, fresh graduate computer engineer
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
 <br>
-  
-![](https://img.shields.io/badge/Design-Adobe%20Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Design-Adobe%20Premiere%20Pro-informational?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Design-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
+
 
 </details>
 
