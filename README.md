@@ -10,7 +10,7 @@ I’m Bernita, fresh graduate computer engineer
 <div>
 
 <a href="https://github.com/Bernitafebri">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Bernitafebri&show_icons=true&line_height=27&count_private=true&title_color=e3be7a&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Alvin Github Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Bernitafebri&show_icons=true&line_height=27&count_private=true&title_color=e3be7a&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Bernita Github Stats" />
 </a>
  <div style="margin-bottom : 20px"></div>
 
